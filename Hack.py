@@ -49,8 +49,7 @@ else:
         print("\033[1;32m  (\   /____\ ")
         
         
-    else:
-        print("Error")
+
 user = input("\033[01;33m[+] Email That you want to hack ===> :")
 passwfile = input("\033[01;33m[+] 1\033[01;34mSelect a password list :")
 passwfile = open(passwfile, "r")
