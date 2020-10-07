@@ -38,7 +38,16 @@ else:
     print("\033[01;33m[*] \033[01;34mTybe Number '1' Please ....!")
     Number= input("\033[01;34m[+] \033[01;33mTybe The Namber :")
     if Number ==("1"):
-        print("\033[01;33m .... \033[01;34mWillcom To My Programmer \033[01;33m 0....")
+        print("\033[01;91m .... \033[01;34mWillcom To My Programmer \033[01;33m 0....")
+        print("\033[1;32m        ,     , ")
+        print("\033[1;32m      (\____/) ")
+        print("\033[1;32m       (_oo_) ")
+        print("\033[1;32m         (O) ")
+        print("\033[1;32m       __||__    \) ")
+        print("\033[1;32m   []/______\[] /")
+        print("\033[1;32m   / \______/ \/")
+        print("\033[1;32m  /    /__\ ")
+        print("\033[1;32m  (\   /____\ ")
         
         
     else:
